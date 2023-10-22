@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Je Naam - Persoonlijke Website</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Je Naam</h1>
+        <p>Webontwikkelaar | Blogger | Creatieve Enthousiasteling</p>
+    </header>
+
+    <nav>
+        <!-- Voeg hier je navigatiemenu toe -->
+    </nav>
+
+    <section id="about">
+        <h2>Over Mij</h2>
+        <p>Welkom op mijn persoonlijke website. Ik ben een webontwikkelaar met een passie voor het maken van mooie en functionele websites. Ik deel ook graag mijn gedachten en ervaringen via mijn blog.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Hier zijn enkele van mijn recente projecten:</p>
+        <!-- Voeg hier informatie over je projecten en afbeeldingen toe -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Neem gerust contact met me op:</p>
+        <address>
+            E-mail: <a href="mailto:youremail@example.com">youremail@example.com</a><br>
+            Telefoon: (123) 456-7890
+        </address>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Je Naam</p>
+    </footer>
+</body>
+</html>
